@@ -9,7 +9,8 @@ h1, h2 {
 	margin-bottom: 0;
 }
 body * {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
 }
 p {
 	font-weight:300;
@@ -18,7 +19,7 @@ p {
 }
 h1 {
 	font-size:48pt;
-	font-weight:100;
+	font-weight:300;
 	line-height:60pt;
 }
 p a {
@@ -32,7 +33,6 @@ p a:hover {
 p a.btn {
 	text-decoration:none!important;
 }
-
 
 /* colors */
 
@@ -74,7 +74,7 @@ span.rnd {
 	margin-left: 2px;
 	font-weight: normal;
 	text-transform: lowercase;
-	font-weight:800;
+	font-weight:600;
 	font-style: italic;
 	text-shadow: 1px 2px 0 rgba(0,0,0,0.075);
 	-webkit-box-shadow: 1px 2px 0 0 rgba(0,0,0,0.075);
@@ -104,7 +104,8 @@ span.rnd {
 }
 
 #third {
-	background: #333;
+        background:url(../assets/firstBG.jpg) 50% -75px no-repeat fixed;
+	/* background: #333; */
 	margin: 0 auto;
 	padding: 40px 0 200px 0;
 }
