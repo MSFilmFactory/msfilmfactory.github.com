@@ -107,7 +107,7 @@ span.rnd {
         background:url(../assets/firstBG.jpg) 50% -75px no-repeat fixed;
 	margin: 0 auto;
         height: 1200px;
-	padding: 40px 0 200px 0;
+	padding: 0;
 }
 #third p, #third h1, #third h2, #third h3, #third h4, #third h5, #third h6 {color:#FFFFFF;}
 #third h2 {font-weight:300;}
@@ -116,13 +116,13 @@ span.rnd {
 	background: url(../assets/thirdBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1200px;
-	padding: 100px 0 0 0;
+	padding: 0;
 }
 #fifth {
 	background: #8c31b7;
 	height: 810px;
 	margin: 0 auto;
-	padding: 40px 0 0 0;
+	padding: 0;
 }
 
 /* objects */
